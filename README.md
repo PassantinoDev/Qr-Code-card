@@ -29,8 +29,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/PassantinoDev/Qr-Code-card)
-- Live Site URL: [Add live site URL here](https://passantinodev.github.io/Qr-Code-card/)
+- Solution URL: https://github.com/PassantinoDev/Qr-Code-card
+- Live Site URL: https://passantinodev.github.io/Qr-Code-card/
 
 ## My process
 
@@ -49,7 +49,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@@PassantinoDev](https://www.frontendmentor.io/profile/PassantinoDev)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
